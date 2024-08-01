@@ -146,13 +146,15 @@ footer {
 }
 .h1{
     font-family: sans-serif;
-
+ margin-left: 5px;
 }
 .h2{
     font-family: sans-serif;
+ margin-left: 5px;
 }
 .h3{
     font-family: sans-serif;
+ margin-left: 5px;
 }
 .imagem1{
 border-radius: 50px;
