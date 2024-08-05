@@ -1,6 +1,6 @@
 * {
-    padding: 1;
-    margin: 0;
+    padding: 0;
+    margin: 1;
     box-sizing: border-box;
 }
 
@@ -164,6 +164,6 @@ border-radius: 50px;
 .imagem2{
     border-radius: 50px;
 }
-.imagem3{
+.img3{
     border-radius: 50px;
 }
