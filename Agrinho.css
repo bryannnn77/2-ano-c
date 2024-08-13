@@ -155,19 +155,19 @@ footer {
 .h3{
     font-family: sans-serif;
  margin-left: 5px;
-}
+ font-size: 18px;}
 .imagem1{
 border-radius: 50px;
-margin-right: 1000px;
     margin-top: 50px;
+    margin-right: 20px;
 }
 .img2{
-    border-radius: 50px;
-    margin-left: 5px;
+   border-radius: 50px;
+   margin-left: 5px;
     max-width:650px;
     max-height:400px;
     width: auto;
-    height: auto;
+    height: auto; 
 }
 .imagem3{
     border-radius: 50px;
@@ -175,6 +175,7 @@ margin-right: 1000px;
     max-height:650px;
     width: auto;
     height: auto;
+    margin-right: 20px;
 }
     .imagem4 {
     border-radius: 50px;
@@ -190,5 +191,16 @@ margin-right: 1000px;
         width: auto;
         height: auto;
     }
-.text1{
+.container{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-family: sans-serif; 
+
 }
