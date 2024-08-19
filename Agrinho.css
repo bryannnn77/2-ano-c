@@ -183,11 +183,12 @@ border-radius: 50px;
     max-height:950;
     width: auto;
     height: auto;
+    margin-right: 20px;
     }
     .imagem5{
         border-radius: 50px;
         max-width:630px;
-        max-height:950;
+        max-height:650px;
         width: auto;
         height: auto;
     }
@@ -203,4 +204,10 @@ border-radius: 50px;
     font-size: 16px;
     font-family: sans-serif; 
 
+}
+.container3{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-family: sans-serif; 
 }
