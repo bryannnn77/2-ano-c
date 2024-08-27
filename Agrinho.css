@@ -33,6 +33,7 @@ nav {
     padding-left: 20px
 }
 
+
 .login {
     padding: 10px 40px;
     font-size: 15px;
@@ -220,5 +221,26 @@ border-radius: 50px;
     font-family: sans-serif; 
 }
 body{
+    width: 100%;
     background-image: url("https://img.freepik.com/fotos-gratis/desfoque-abstrato-estudio-vazio-de-gradiente-verde-bem-use-como-modelo-de-site-de-fundo-de-relatorio-de-negocios_1258-100560.jpg");
 }
+@media screen {
+ 
+}@media (max-width: 768px) {
+  header  {
+      text-align: left;
+      width: 100%;
+  }
+
+  nav ul {
+      text-align: center;
+      padding: 0;
+  }
+
+  nav ul li {
+      display: block;
+      margin: 10px 0; }
+  }
+  .inicio{
+    margin-left: 20px;
+  }
